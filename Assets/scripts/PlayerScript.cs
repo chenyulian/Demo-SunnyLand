@@ -25,6 +25,8 @@ public class PlayerScript : MonoBehaviour
 
     int jumpCount;
 
+    bool test = false; // 第一次提交之后新增了这个变量
+
     // Start is called before the first frame update
     void Start()
     {
